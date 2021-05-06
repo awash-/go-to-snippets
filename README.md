@@ -1,11 +1,11 @@
 # go-to-snippets
 This is my backup repository of all the snippets I most commonly use.
 
-## SQL
+### SQL
 TODO
 
-## VBA
+### VBA
 TODO
 
-## Python
+### Python
 TODO
